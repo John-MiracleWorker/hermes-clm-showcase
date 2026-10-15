@@ -1,0 +1,100 @@
+{
+  "benchmark_version": "1.0.0",
+  "name": "long_horizon_engineering",
+  "description": "Full-Hermes long-horizon engineering benchmark with 3 primary arms and secondary structural retrieval A/B per Task 4 / Task 5 spec (§7, §8).",
+  "repository_baseline_commit": "e0db574",
+  "active_plan_reference": "docs/plans/hermes-clm-next-pass.md §7, §8",
+  "primary_arms": {
+    "A": {
+      "name": "standard_hermes_compression",
+      "description": "Actual default ContextCompressor with standard compression/recovery behavior.",
+      "context_mechanism": "ContextCompressor",
+      "clm_tools_enabled": false
+    },
+    "B": {
+      "name": "hermes_structure_aware_clm",
+      "description": "Native CLM plugin with autonomous compaction, Context Map snapshot, deterministic lookup, and validated restore.",
+      "context_mechanism": "CLM",
+      "clm_tools_enabled": true,
+      "context_map_enabled": true,
+      "context_map_token_target": 1500,
+      "context_map_token_cap": 2000,
+      "context_map_max_results": 5,
+      "context_map_max_depth": 5,
+      "context_map_mode": "deterministic",
+      "context_map_browse": false
+    },
+    "C": {
+      "name": "full_history_baseline",
+      "description": "Full canonical history without pruning or summarization, stopping at hard ceiling without server shift.",
+      "context_mechanism": "FullHistoryEngine",
+      "clm_tools_enabled": false
+    }
+  },
+  "retrieval_substudy_arms": {
+    "R_flat": {
+      "name": "clm_flat_retrieval",
+      "description": "Corrected CLM archive and deterministic flat lookup/status without hierarchical path scoring or visible map snapshot.",
+      "context_map_enabled": false,
+      "retrieval_mode": "flat_deterministic"
+    },
+    "R_map": {
+      "name": "clm_structural_map_retrieval",
+      "description": "Full CLM Context Map with hierarchy/path-aware scoring, progressive disclosure visible snapshot, and deterministic lookup.",
+      "context_map_enabled": true,
+      "context_map_token_target": 1500,
+      "context_map_token_cap": 2000,
+      "context_map_max_results": 5,
+      "context_map_max_depth": 5,
+      "context_map_mode": "deterministic",
+      "context_map_browse": false,
+      "retrieval_mode": "hierarchical_map"
+    }
+  },
+  "retrieval_substudy_protocol": {
+    "controls": "Identical Qwen provider, source corpus, labels/descriptions/keywords, budgets, sampling, caps, and full Hermes lifecycle across R_flat and R_map.",
+    "exposure_definitions": "Verified absent-detail exposure from active raw context, summaries, visible map, and candidate metadata; target 80 decision cycles post-archive.",
+    "scoring_denominators": "Evaluated at episode and query level; unexercised, failed, and censored cases reported explicitly without averaging away invalid references.",
+    "extension_rules": "Preregister at least 6 matched delayed-recall episode pairs; bounded extension rule if fewer than 6 valid absent-detail cases emerge.",
+    "stopping_rules": "150 task decision cycles, 450 total provider requests, or 4 hours elapsed wall time ceiling per arm."
+  },
+  "workloads": [
+    {
+      "id": "task_1_state_resume",
+      "name": "State Resume Defect",
+      "description": "Diagnose and fix a state/resume defect, update persistence/compatibility behavior, document migration."
+    },
+    {
+      "id": "task_2_multi_layer_feature",
+      "name": "Multi-Layer Feature Implementation",
+      "description": "Implement a feature spanning an API and worker/tool layer with error handling, tests, failed-test inspection and revision."
+    },
+    {
+      "id": "task_3_regression_investigation",
+      "name": "Historical Regression Investigation",
+      "description": "Investigate a regression requiring old logs/configuration, explicit correction of an early assumption, code fix, and explanation."
+    }
+  ],
+  "budget_and_sampling_settings": {
+    "temperature": 0.0,
+    "total_generation_cap": 4096,
+    "reasoning_subcap": 3072,
+    "active_target_tokens": 28672,
+    "reserve_tokens": 4096,
+    "provider_context_min_tokens": 64000,
+    "provider_ceiling": 131072,
+    "budget_mode": "exact"
+  },
+  "telemetry": {
+    "event_format": "JSONL",
+    "monotonic_clock": true,
+    "timezone": "America/Detroit",
+    "reconciliation_required": true,
+    "evaluator_derived_nulls": [
+      "source_consultation",
+      "recall_at_k",
+      "wrong_restore",
+      "autonomous_success"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+[turn 193] wall=91.2s rc=0 in=54388 pev=59271.79ms task=79827 sid=20261014_114859_ebd5a5 ev=469
+[turn 194] wall=21.1s rc=0 in=54662 pev=3609.1ms task=79885 sid=20261014_114859_ebd5a5 ev=471
+[turn 195] wall=18.6s rc=0 in=54945 pev=3473.86ms task=79917 sid=20261014_114859_ebd5a5 ev=473
+[turn 196] wall=21.1s rc=0 in=55224 pev=3515.44ms task=79949 sid=20261014_114859_ebd5a5 ev=475
+[turn 197] wall=22.7s rc=0 in=55499 pev=3505.6ms task=79978 sid=20261014_114859_ebd5a5 ev=477
+[turn 198] wall=28.3s rc=0 in=55882 pev=674.08ms task=80065 sid=20261014_114859_ebd5a5 ev=479
+[turn 199] wall=29.4s rc=0 in=56262 pev=3992.03ms task=80079 sid=20261014_114859_ebd5a5 ev=481 PROBE PASS
+[turn 200] wall=28.7s rc=0 in=59761 pev=7779.85ms task=80124 sid=20261014_114859_ebd5a5 ev=483
+[turn 201] wall=166.6s rc=0 in=65806 pev=11257.49ms task=81558 sid=20261014_114859_ebd5a5 ev=488
+[turn 202] wall=45.7s rc=0 in=52174 pev=27945.98ms task=81616 sid=20261014_114859_ebd5a5 ev=490
+[turn 203] wall=22.4s rc=0 in=52459 pev=3592.1ms task=81658 sid=20261014_114859_ebd5a5 ev=492
+[turn 204] wall=19.6s rc=0 in=52743 pev=3597.55ms task=81689 sid=20261014_114859_ebd5a5 ev=494
+[turn 205] wall=21.6s rc=0 in=53025 pev=3601.28ms task=81720 sid=20261014_114859_ebd5a5 ev=496
+[turn 206] wall=20.1s rc=0 in=53318 pev=3603.38ms task=81750 sid=20261014_114859_ebd5a5 ev=498 PROBE PASS
+[turn 207] wall=26.9s rc=0 in=53743 pev=662.89ms task=81847 sid=20261014_114859_ebd5a5 ev=500
+[turn 208] wall=160.7s rc=0 in=66093 pev=19580.12ms task=82972 sid=20261014_114859_ebd5a5 ev=505
+[turn 209] wall=51.2s rc=0 in=54570 pev=31160.69ms task=83030 sid=20261014_114859_ebd5a5 ev=507
+[turn 210] wall=25.5s rc=0 in=57942 pev=7361.99ms task=83072 sid=20261014_114859_ebd5a5 ev=509
+[turn 211] wall=25.3s rc=0 in=58223 pev=7447.78ms task=83104 sid=20261014_114859_ebd5a5 ev=511
+[turn 212] wall=21.5s rc=0 in=58506 pev=3539.28ms task=83136 sid=20261014_114859_ebd5a5 ev=513
+[turn 213] wall=22.5s rc=0 in=58803 pev=3553.94ms task=83167 sid=20261014_114859_ebd5a5 ev=515 PROBE PASS
+[turn 214] wall=21.6s rc=0 in=59141 pev=3740.74ms task=83213 sid=20261014_114859_ebd5a5 ev=517
+[turn 215] wall=19.9s rc=0 in=59423 pev=3647.79ms task=83244 sid=20261014_114859_ebd5a5 ev=519
+[turn 216] wall=93.5s rc=0 in=62696 pev=788.67ms task=83970 sid=20261014_114859_ebd5a5 ev=524
+[turn 217] wall=42.4s rc=0 in=47820 pev=22573.93ms task=83986 sid=20261014_114859_ebd5a5 ev=526
+[turn 218] wall=19.0s rc=0 in=48106 pev=3376.5ms task=84025 sid=20261014_114859_ebd5a5 ev=528
+[turn 219] wall=19.3s rc=0 in=48380 pev=3371.24ms task=84056 sid=20261014_114859_ebd5a5 ev=530
+[turn 220] wall=24.0s rc=0 in=51775 pev=7146.52ms task=84087 sid=20261014_114859_ebd5a5 ev=532 PROBE PASS
+[turn 221] wall=23.9s rc=0 in=52129 pev=7371.92ms task=84136 sid=20261014_114859_ebd5a5 ev=534
+[turn 222] wall=21.6s rc=0 in=52420 pev=3555.94ms task=84167 sid=20261014_114859_ebd5a5 ev=536
+[turn 223] wall=20.2s rc=0 in=52695 pev=3614.31ms task=84197 sid=20261014_114859_ebd5a5 ev=538
+[turn 224] wall=26.3s rc=0 in=52974 pev=3636.74ms task=84227 sid=20261014_114859_ebd5a5 ev=540
+[turn 225] wall=30.8s rc=0 in=53335 pev=666.5ms task=84307 sid=20261014_114859_ebd5a5 ev=542
+[turn 226] wall=20.9s rc=0 in=53705 pev=3855.0ms task=84322 sid=20261014_114859_ebd5a5 ev=544
+[turn 227] wall=25.3s rc=0 in=54000 pev=3537.02ms task=84352 sid=20261014_114859_ebd5a5 ev=546 PROBE PASS
+[turn 228] wall=22.0s rc=0 in=54320 pev=3604.65ms task=84393 sid=20261014_114859_ebd5a5 ev=548
+[turn 229] wall=22.8s rc=0 in=54608 pev=3554.2ms task=84424 sid=20261014_114859_ebd5a5 ev=550
+[turn 230] wall=25.4s rc=0 in=58017 pev=7708.71ms task=84455 sid=20261014_114859_ebd5a5 ev=552
+[turn 231] wall=26.6s rc=0 in=58298 pev=7630.54ms task=84487 sid=20261014_114859_ebd5a5 ev=554
+[turn 232] wall=21.3s rc=0 in=58573 pev=3708.28ms task=84518 sid=20261014_114859_ebd5a5 ev=556
+[turn 233] wall=23.3s rc=0 in=58728 pev=3660.13ms task=84548 sid=20261014_114859_ebd5a5 ev=558
+[turn 234] wall=1200.0s rc=-9 in=73104 pev=25094.47ms task=94782 sid=20261014_114859_ebd5a5 ev=576 PROBE FAIL
+[turn 235] wall=379.2s rc=0 in=70633 pev=13445.77ms task=97676 sid=20261014_114859_ebd5a5 ev=581
+[turn 236] wall=54.6s rc=0 in=56442 pev=33439.34ms task=98193 sid=20261014_114859_ebd5a5 ev=583
+[turn 237] wall=21.0s rc=0 in=56745 pev=3748.36ms task=98246 sid=20261014_114859_ebd5a5 ev=585
+[turn 238] wall=24.0s rc=0 in=57007 pev=3691.84ms task=98274 sid=20261014_114859_ebd5a5 ev=587
+[turn 239] wall=21.6s rc=0 in=57279 pev=3676.92ms task=98299 sid=20261014_114859_ebd5a5 ev=589
+[turn 240] wall=29.7s rc=0 in=60692 pev=7632.18ms task=98330 sid=20261014_114859_ebd5a5 ev=591
+[turn 241] wall=259.0s rc=0 in=71147 pev=17631.71ms task=100441 sid=20261014_114859_ebd5a5 ev=597 PROBE PASS
+[turn 242] wall=49.0s rc=0 in=52222 pev=28353.05ms task=100508 sid=20261014_114859_ebd5a5 ev=599
+[turn 243] wall=52.5s rc=0 in=53215 pev=593.41ms task=100857 sid=20261014_114859_ebd5a5 ev=601
+[turn 244] wall=31.3s rc=0 in=53595 pev=4683.77ms task=100878 sid=20261014_114859_ebd5a5 ev=603
+[turn 245] wall=32.0s rc=0 in=53875 pev=3590.5ms task=100908 sid=20261014_114859_ebd5a5 ev=605
+[turn 246] wall=30.9s rc=0 in=54171 pev=3616.35ms task=100942 sid=20261014_114859_ebd5a5 ev=607
+[turn 247] wall=27.4s rc=0 in=54460 pev=3636.13ms task=100975 sid=20261014_114859_ebd5a5 ev=609
+[turn 248] wall=35.0s rc=0 in=54753 pev=3522.16ms task=101005 sid=20261014_114859_ebd5a5 ev=611 PROBE PASS
+[turn 249] wall=24.8s rc=0 in=55298 pev=4040.07ms task=101133 sid=20261014_114859_ebd5a5 ev=613
+[turn 250] wall=31.2s rc=0 in=58656 pev=7445.56ms task=101163 sid=20261014_114859_ebd5a5 ev=615
+[turn 251] wall=39.8s rc=0 in=58939 pev=7572.87ms task=101196 sid=20261014_114859_ebd5a5 ev=617
+[turn 252] wall=32.7s rc=0 in=59361 pev=736.76ms task=101305 sid=20261014_114859_ebd5a5 ev=619
+[turn 253] wall=25.1s rc=0 in=59767 pev=4193.69ms task=101340 sid=20261014_114859_ebd5a5 ev=621
+[turn 254] wall=26.6s rc=0 in=60081 pev=3700.56ms task=101374 sid=20261014_114859_ebd5a5 ev=623
+[turn 255] wall=36.1s rc=0 in=60336 pev=3771.92ms task=101403 sid=20261014_114859_ebd5a5 ev=625 PROBE PASS
+[turn 256] wall=26.1s rc=0 in=60909 pev=4249.69ms task=101538 sid=20261014_114859_ebd5a5 ev=627
+[turn 257] wall=25.1s rc=0 in=61201 pev=3892.39ms task=101573 sid=20261014_114859_ebd5a5 ev=629
+[turn 258] wall=24.6s rc=0 in=61478 pev=3768.14ms task=101601 sid=20261014_114859_ebd5a5 ev=631
+[turn 259] wall=29.6s rc=0 in=61759 pev=3806.68ms task=101632 sid=20261014_114859_ebd5a5 ev=633
+[turn 260] wall=251.6s rc=0 in=78638 pev=27224.04ms task=103506 sid=20261014_114859_ebd5a5 ev=638
+[turn 261] wall=71.5s rc=0 in=58409 pev=631.97ms task=103714 sid=20261014_114859_ebd5a5 ev=640
+[turn 262] wall=29.3s rc=0 in=58819 pev=4353.08ms task=103736 sid=20261014_114859_ebd5a5 ev=642 PROBE PASS
+[turn 263] wall=27.3s rc=0 in=59140 pev=3790.61ms task=103785 sid=20261014_114859_ebd5a5 ev=644
+[turn 264] wall=25.7s rc=0 in=59437 pev=3778.51ms task=103819 sid=20261014_114859_ebd5a5 ev=646
+[turn 265] wall=24.8s rc=0 in=59713 pev=3689.3ms task=103847 sid=20261014_114859_ebd5a5 ev=648
+[turn 266] wall=25.7s rc=0 in=60005 pev=3807.61ms task=103881 sid=20261014_114859_ebd5a5 ev=650
+[turn 267] wall=26.6s rc=0 in=60284 pev=3683.41ms task=103909 sid=20261014_114859_ebd5a5 ev=652
+[turn 268] wall=29.4s rc=0 in=60563 pev=3682.67ms task=103936 sid=20261014_114859_ebd5a5 ev=654
+[turn 269] wall=23.6s rc=0 in=60845 pev=3704.75ms task=103963 sid=20261014_114859_ebd5a5 ev=656 PROBE PASS
+[turn 270] wall=179.9s rc=0 in=69047 pev=714.34ms task=105391 sid=20261014_114859_ebd5a5 ev=661
+[turn 271] wall=49.2s rc=0 in=51338 pev=26700.48ms task=105413 sid=20261014_114859_ebd5a5 ev=663
+[turn 272] wall=24.9s rc=0 in=51634 pev=3658.86ms task=105458 sid=20261014_114859_ebd5a5 ev=665
+[turn 273] wall=25.1s rc=0 in=51929 pev=3610.39ms task=105495 sid=20261014_114859_ebd5a5 ev=667
+[turn 274] wall=26.2s rc=0 in=52210 pev=3542.67ms task=105524 sid=20261014_114859_ebd5a5 ev=669
+[turn 275] wall=29.3s rc=0 in=52491 pev=3532.92ms task=105553 sid=20261014_114859_ebd5a5 ev=671
+[turn 276] wall=27.2s rc=0 in=52802 pev=3660.85ms task=105589 sid=20261014_114859_ebd5a5 ev=673 PROBE PASS
+[turn 277] wall=24.3s rc=0 in=53114 pev=3708.41ms task=105627 sid=20261014_114859_ebd5a5 ev=675
+[turn 278] wall=24.4s rc=0 in=53406 pev=3659.54ms task=105664 sid=20261014_114859_ebd5a5 ev=677
+[turn 279] wall=30.3s rc=0 in=53820 pev=625.99ms task=105764 sid=20261014_114859_ebd5a5 ev=679
+[turn 280] wall=29.8s rc=0 in=57332 pev=8002.65ms task=105783 sid=20261014_114859_ebd5a5 ev=681
+[turn 281] wall=27.0s rc=0 in=57614 pev=7651.22ms task=105815 sid=20261014_114859_ebd5a5 ev=683
+[turn 282] wall=23.6s rc=0 in=57898 pev=3718.11ms task=105844 sid=20261014_114859_ebd5a5 ev=685
+[turn 283] wall=25.9s rc=0 in=58190 pev=3765.57ms task=105873 sid=20261014_114859_ebd5a5 ev=687 PROBE PASS
+[turn 284] wall=27.1s rc=0 in=58501 pev=3902.0ms task=105912 sid=20261014_114859_ebd5a5 ev=689
+[turn 285] wall=27.7s rc=0 in=58781 pev=3744.98ms task=105941 sid=20261014_114859_ebd5a5 ev=691
+[turn 286] wall=59.9s rc=0 in=67918 pev=15972.14ms task=105970 sid=20261014_114859_ebd5a5 ev=695
+[turn 287] wall=237.0s rc=0 in=67248 pev=12423.49ms task=107759 sid=20261014_114859_ebd5a5 ev=700
+[turn 288] wall=60.2s rc=0 in=51803 pev=620.34ms task=107874 sid=20261014_114859_ebd5a5 ev=702
+[turn 289] wall=24.4s rc=0 in=52178 pev=3777.04ms task=107894 sid=20261014_114859_ebd5a5 ev=704
+[turn 290] wall=30.0s rc=0 in=55592 pev=7260.02ms task=107923 sid=20261014_114859_ebd5a5 ev=706 PROBE FAIL
+[turn 291] wall=27.9s rc=0 in=55895 pev=7389.77ms task=107970 sid=20261014_114859_ebd5a5 ev=708
+[turn 292] wall=25.7s rc=0 in=56171 pev=3536.57ms task=107999 sid=20261014_114859_ebd5a5 ev=710
+[turn 293] wall=26.5s rc=0 in=56456 pev=3586.53ms task=108027 sid=20261014_114859_ebd5a5 ev=712
+[turn 294] wall=28.1s rc=0 in=56739 pev=3579.48ms task=108055 sid=20261014_114859_ebd5a5 ev=714
+[turn 295] wall=28.0s rc=0 in=57014 pev=3552.33ms task=108083 sid=20261014_114859_ebd5a5 ev=716
+[turn 296] wall=27.8s rc=0 in=57288 pev=3643.92ms task=108111 sid=20261014_114859_ebd5a5 ev=718
+[turn 297] wall=29.4s rc=0 in=57578 pev=3609.28ms task=108140 sid=20261014_114859_ebd5a5 ev=720 PROBE PASS
+[turn 298] wall=28.3s rc=0 in=57888 pev=3731.68ms task=108179 sid=20261014_114859_ebd5a5 ev=722
+[turn 299] wall=29.3s rc=0 in=58166 pev=3619.77ms task=108210 sid=20261014_114859_ebd5a5 ev=724
+[turn 300] wall=48.5s rc=0 in=62764 pev=9413.26ms task=108238 sid=20261014_114859_ebd5a5 ev=728
+[turn 301] wall=74.3s rc=0 in=62096 pev=40848.71ms task=108282 sid=20261014_114859_ebd5a5 ev=732
+[turn 302] wall=70.0s rc=0 in=62097 pev=40241.56ms task=108327 sid=20261014_114859_ebd5a5 ev=736
+[turn 303] wall=71.9s rc=0 in=62197 pev=40495.68ms task=108371 sid=20261014_114859_ebd5a5 ev=740
+[turn 304] wall=71.6s rc=0 in=62127 pev=40418.46ms task=108414 sid=20261014_114859_ebd5a5 ev=744 PROBE FAIL
+[turn 305] wall=201.6s rc=0 in=65673 pev=9675.69ms task=109898 sid=20261014_114859_ebd5a5 ev=749
+[turn 306] wall=65.2s rc=0 in=46778 pev=572.36ms task=110072 sid=20261014_114859_ebd5a5 ev=751
+[turn 307] wall=27.6s rc=0 in=47179 pev=4118.18ms task=110088 sid=20261014_114859_ebd5a5 ev=753
+[turn 308] wall=30.8s rc=0 in=47448 pev=3448.79ms task=110117 sid=20261014_114859_ebd5a5 ev=755
+[turn 309] wall=27.5s rc=0 in=47700 pev=3412.72ms task=110149 sid=20261014_114859_ebd5a5 ev=757
+[turn 310] wall=40.5s rc=0 in=51076 pev=7130.86ms task=110179 sid=20261014_114859_ebd5a5 ev=759
+[turn 311] wall=33.4s rc=0 in=51349 pev=7271.03ms task=110205 sid=20261014_114859_ebd5a5 ev=761 PROBE PASS
+[turn 312] wall=37.7s rc=0 in=58648 pev=12566.27ms task=110242 sid=20261014_114859_ebd5a5 ev=763
+[turn 313] wall=39.0s rc=0 in=58916 pev=12631.46ms task=110270 sid=20261014_114859_ebd5a5 ev=765
+[turn 314] wall=32.8s rc=0 in=59203 pev=3775.46ms task=110303 sid=20261014_114859_ebd5a5 ev=767
+[turn 315] wall=33.6s rc=0 in=59568 pev=685.76ms task=110387 sid=20261014_114859_ebd5a5 ev=769
+[turn 316] wall=28.3s rc=0 in=59957 pev=4193.49ms task=110408 sid=20261014_114859_ebd5a5 ev=771
+[turn 317] wall=28.4s rc=0 in=60225 pev=3790.48ms task=110433 sid=20261014_114859_ebd5a5 ev=773
+[turn 318] wall=33.6s rc=0 in=61723 pev=5359.05ms task=110463 sid=20261014_114859_ebd5a5 ev=777 PROBE PASS
+[turn 319] wall=63.6s rc=0 in=59771 pev=38302.33ms task=110499 sid=20261014_114859_ebd5a5 ev=779
+[turn 320] wall=120.3s rc=0 in=66404 pev=12002.23ms task=111319 sid=20261014_114859_ebd5a5 ev=784
+[turn 321] wall=50.0s rc=0 in=51594 pev=26888.37ms task=111357 sid=20261014_114859_ebd5a5 ev=786
+[turn 322] wall=24.8s rc=0 in=51877 pev=3466.27ms task=111404 sid=20261014_114859_ebd5a5 ev=788
+[turn 323] wall=24.5s rc=0 in=52165 pev=3434.59ms task=111437 sid=20261014_114859_ebd5a5 ev=790
+[turn 324] wall=36.0s rc=0 in=52531 pev=600.13ms task=111523 sid=20261014_114859_ebd5a5 ev=792
+[turn 325] wall=30.2s rc=0 in=52916 pev=3861.12ms task=111540 sid=20261014_114859_ebd5a5 ev=794 PROBE PASS
+[turn 326] wall=25.7s rc=0 in=53204 pev=3576.99ms task=111574 sid=20261014_114859_ebd5a5 ev=796
+[turn 327] wall=25.4s rc=0 in=53487 pev=3474.94ms task=111602 sid=20261014_114859_ebd5a5 ev=798
+[turn 328] wall=26.9s rc=0 in=53770 pev=3524.03ms task=111631 sid=20261014_114859_ebd5a5 ev=800
+[turn 329] wall=30.3s rc=0 in=54054 pev=3529.09ms task=111659 sid=20261014_114859_ebd5a5 ev=802
+[turn 330] wall=29.5s rc=0 in=57487 pev=7402.27ms task=111687 sid=20261014_114859_ebd5a5 ev=804
+[turn 331] wall=31.4s rc=0 in=57772 pev=7543.65ms task=111718 sid=20261014_114859_ebd5a5 ev=806
+[turn 332] wall=30.4s rc=0 in=58066 pev=3689.75ms task=111747 sid=20261014_114859_ebd5a5 ev=808 PROBE PASS
+[turn 333] wall=37.9s rc=0 in=58451 pev=639.88ms task=111835 sid=20261014_114859_ebd5a5 ev=810
+[turn 334] wall=29.4s rc=0 in=58906 pev=4124.62ms task=111881 sid=20261014_114859_ebd5a5 ev=812
+[turn 335] wall=94.8s rc=0 in=59329 pev=66713.55ms task=111910 sid=20261014_114859_ebd5a5 ev=814
+[turn 336] wall=25.7s rc=0 in=59605 pev=3599.44ms task=111970 sid=20261014_114859_ebd5a5 ev=816
+[turn 337] wall=25.6s rc=0 in=59890 pev=3649.76ms task=112002 sid=20261014_114859_ebd5a5 ev=818
+[turn 338] wall=58.3s rc=0 in=69106 pev=15936.06ms task=112031 sid=20261014_114859_ebd5a5 ev=822
+[turn 339] wall=69.8s rc=0 in=62750 pev=41276.37ms task=112071 sid=20261014_114859_ebd5a5 ev=826 PROBE PASS
+[turn 340] wall=85.7s rc=0 in=65328 pev=45402.87ms task=112120 sid=20261014_114859_ebd5a5 ev=830

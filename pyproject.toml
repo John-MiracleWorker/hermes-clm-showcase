@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hermes-clm"
+version = "0.1.0"
+description = "Model-directed, reversible context-management engine for Hermes Agent (Context Language Models)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Trent Iuni" }]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.23"]
+tiktoken = ["tiktoken>=0.7"]
+
+[tool.setuptools]
+packages = ["hermes_clm", "hermes_clm.tools", "hermes_clm.retrieval"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

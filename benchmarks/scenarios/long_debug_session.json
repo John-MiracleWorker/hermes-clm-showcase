@@ -1,0 +1,7 @@
+{
+  "name": "long_debug_session",
+  "description": "Repeated tool calls, large outputs, dead-end hypotheses, eventual diagnosis (spec §44).",
+  "turns": 220,
+  "char_pad": 500,
+  "seed": "vulkan-debug"
+}

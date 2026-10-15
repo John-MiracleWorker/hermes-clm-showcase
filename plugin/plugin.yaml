@@ -1,0 +1,8 @@
+name: hermes-clm
+description: >-
+  CLM context engine — model-directed, reversible working-context management.
+  Compacts, archives, and restores context through clm_* tools while the
+  canonical conversation stays untouched. Select with context.engine: hermes-clm.
+version: 0.1.0
+author: Trent Iuni
+license: MIT
